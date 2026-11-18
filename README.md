@@ -3,12 +3,12 @@
 Build a simple robot to detect and follow a line by reading photoresistor values.
 
 ## Materials used
-1x esp32 s3 mini microcontroller
-1x L298N motor driver
-2x motors and wheels
+1x esp32 s3 mini microcontroller\
+1x L298N motor driver\
+2x motors and wheels\
 1x 9V battery and connector
 
-Circuit Components
+Circuit Components\
 Wires, 7x Photoresistors, 2x Breadboards, 10k Ohm Resistors, 4x Potentiometers
 
 ## Challenge 1 - The setup
@@ -29,3 +29,8 @@ The 2 DC motors powered by a 9V battery and managed by the L298N will bot.
 
 
 ## Challenge 2 - Assembling the Robot
+Back view of the robot\
+<img src="https://github.com/GregHHefley/pieceof8bits.github.io/blob/main/back_view.jpeg" width="378" height="504">
+
+Front view\
+<img src="https://github.com/GregHHefley/pieceof8bits.github.io/blob/main/front_view.jpeg" width="378" height="504">
