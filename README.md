@@ -26,7 +26,7 @@ We added a mount for the ESP32 and extruded the back to give room for other bigg
 
 ## Challenge 2 - Assembling the Robot
 Back view of the robot\
-<img src="https://github.com/GregHHefley/pieceof8bits.github.io/blob/main/back_view.jpeg" width="378" height="504">
+<img src="https://github.com/GregHHefley/pieceof8bits.github.io/blob/main/docs/assets/back_view.jpeg" width="378" height="504">
 
 Front view\
-<img src="https://github.com/GregHHefley/pieceof8bits.github.io/blob/main/front_view.jpeg" width="378" height="504">
+<img src="https://github.com/GregHHefley/pieceof8bits.github.io/blob/main/docs/assets/front_view.jpeg" width="378" height="504">
