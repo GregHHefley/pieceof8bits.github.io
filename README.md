@@ -13,20 +13,16 @@ Wires, 7x Photoresistors, 2x Breadboards, 10k Ohm Resistors, 4x Potentiometers
 
 ## Challenge 1 - The setup
 ### 1A - Potentiometers
-Breadboarded circuit of potentiometers and resistors
-
-This circuit will be our control knobs for the robot, 
+We breadboarded a circuit of potentiometers and resistors as control knobs for the robot. 
 
 ### 1B - Photoresistors
-Breadboarded circuit of photoresistors and resistors
-
-This circuit will read light signals, 
+We breadboarded a circuit of photoresistors and resistors to measure light absorbed on the track into readable signals. 
 
 ### 1C - Motors
-The 2 DC motors powered by a 9V battery and managed by the L298N will bot.
+The 2 DC motors are powered by a 9V battery and managed by the L298N will bot.
 
 ### 1D - Robot Chassis
-
+We added a mount for the ESP32 and extruded the back to give room for other bigger components of the robot. 
 
 ## Challenge 2 - Assembling the Robot
 Back view of the robot\
