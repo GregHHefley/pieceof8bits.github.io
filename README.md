@@ -30,3 +30,6 @@ Back view of the robot\
 
 Front view\
 <img src="https://github.com/GregHHefley/pieceof8bits.github.io/blob/main/assets/front_view.jpeg" width="378" height="504">
+
+## Challenge 3 - Following a Line
+Link to video of line-following: [video](https://drive.google.com/file/d/1iUlGAKrj0Ao34T_yRcJd14qXwlGVA1uB/view?usp=sharing)
